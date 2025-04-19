@@ -1,0 +1,11 @@
+scapy
+socketio
+plyer
+flask_socketio
+CORS
+flask-cors
+eventlet
+websocket-client
+pyobjus
+zeroconf
+ifaddr
